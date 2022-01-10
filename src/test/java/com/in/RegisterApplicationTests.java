@@ -8,6 +8,7 @@ class RegisterApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.print("Tested Successfully");
 	}
 
 }
